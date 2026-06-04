@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
     public void PlayGame()
     {
         // Переходим на сцену с названием Level 1
-        SceneManager.LoadScene("Level 1");
+        SceneManager.LoadScene("SampleScene");
     }
 
     // Метод для кнопки Выход
